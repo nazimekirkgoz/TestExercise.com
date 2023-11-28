@@ -9,7 +9,7 @@ import org.openqa.selenium.Keys;
     import utilities.ReusableMethods;
 import utilities.TestBase;
 
-public class C02_ilk9 extends TestBase {
+public class Register_user extends TestBase {
 
                /*
 1. Launch browser

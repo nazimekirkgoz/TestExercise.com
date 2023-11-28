@@ -5,18 +5,12 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import utilities.ReusableMethods;
 import utilities.TestBase;
 
-import java.time.Duration;
-
-public class C01 extends TestBase {
+public class Test1_registerUser extends TestBase {
 
                /*
 1. Launch browser
